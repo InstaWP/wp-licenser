@@ -16,7 +16,6 @@
 | **WPML**           | `wp wpml register <site-key>` |
 | **Polylang Pro**   | `wp pll license activate <license-key>` |
 | **SEOPress Pro**   | `wp seopress license activate <license-key>` |
-| **MainWP**         | `wp mainwp child connect` *(license handled via parent site)* |
 
 ---
 
