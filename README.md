@@ -10,7 +10,7 @@
 
 | Plugin/Theme       | WP-CLI Command Example |
 |--------------------|------------------------|
-| **Elementor Pro**  | `wp elementor-pro license activate <license-key>` |
+| **[Elementor Pro](https://developers.elementor.com/docs/cli/composer/#activation)**  | `wp elementor-pro license activate <license-key>` |
 | **WP Rocket**      | `wp rocket activate <license-key>` |
 | **Gravity Forms**  | `wp gf license <license-key>` *(requires WP-CLI addon)* |
 | **WPML**           | `wp wpml register <site-key>` |
