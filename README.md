@@ -17,6 +17,8 @@
 | **Polylang Pro**     | WP-CLI                           | `wp pll license activate <license-key>` |
 | **SEOPress Pro**     | WP-CLI                           | `wp seopress license activate <license-key>` |
 | **Astra Pro**        | WP-CLI                           | `wp brainstormforce license activate astra-addon <license-key>` |
+| **Ultimate Addons for Elementor** | WP-CLI              | `wp brainstormforce license activate uael <license-key>` |
+| **Starter Templates** | WP-CLI                          | `wp brainstormforce license activate astra-pro-sites <license-key>` |
 | **Beaver Builder**   | WP-CLI / Constant                | `wp beaver register --license=<key>` or define `FL_LICENSE_KEY` |
 | **ACF Pro**          | Constant / WP-CLI (eval)         | Define `ACF_PRO_LICENSE` or use `wp eval "acf_pro_update_license('<key>')"` |
 | **WPForms**          | Constant                         | Define `WPFORMS_LICENSE_KEY` in `wp-config.php` |
